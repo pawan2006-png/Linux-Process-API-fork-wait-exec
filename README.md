@@ -60,7 +60,6 @@ int main(void) {
 
 
 
-
 ##OUTPUT
 
 
@@ -100,7 +99,6 @@ int main() {
         exit(0);
     }
 }
-
 
 
 
@@ -158,7 +156,6 @@ int main() {
 
     exit(0);
 }
-
 
 
 
